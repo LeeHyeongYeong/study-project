@@ -13,3 +13,5 @@ Y = sigmoid(X)
 plt.plot(X, Y)
 plt.ylim(-0.1, 1.1)
 plt.show()
+
+#aaa
